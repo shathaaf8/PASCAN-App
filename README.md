@@ -35,6 +35,12 @@ The application designed and builded by using xCode and import VisionKit library
 
 <br>
 
+<h2> Our future features plan: </h2>
+<or> 
+  <li>  To print out and read the Date/ other important details. </li>
+  <li> To save information </li>
+  </or>
+
 <h2> Developers </h4> 
 
   
@@ -44,5 +50,6 @@ The application designed and builded by using xCode and import VisionKit library
 <li>  Lamyaa Alharbi  </li>
 </or>
   
+
 
 
