@@ -25,7 +25,7 @@ The application designed and builded by using xCode and import VisionKit library
 <h2> Video for our application </h2> 
 
 <or>
-<li>  The video in Arbaic Language 
+<li>  The application in Arbaic Language 
 
 https://user-images.githubusercontent.com/87260987/212181307-09733dce-527e-4749-82de-943694b05edc.mp4
 
