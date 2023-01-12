@@ -20,12 +20,12 @@ The application designed and builded by using xCode and import VisionKit library
 
 <h2> Video for our application </h2> 
 
-
-[ArabicLangauge.mov.zip](https://github.com/shathaaf8/PASCAN-App/files/10405451/ArabicLangauge.mov.zip)
-
-[EnglishLanguage.mov.zip](https://github.com/shathaaf8/PASCAN-App/files/10405429/EnglishLanguage.mov.zip)
-
-
+<or>
+<il> Download the video in Arbaic Language [ArabicLangauge.mov.zip](https://github.com/shathaaf8/PASCAN-App/files/10405451/ArabicLangauge.mov.zip)
+  </il>
+<il> Download the video in English Language [EnglishLanguage.mov.zip](https://github.com/shathaaf8/PASCAN-App/files/10405429/EnglishLanguage.mov.zip)
+  </li>
+</or>
 
 <h2> Challenge Summary </h4>
 <br>
