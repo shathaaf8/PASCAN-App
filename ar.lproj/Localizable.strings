@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  ourappScna
+
+  Created by SAF on 18/06/1444 AH.
+  
+*/
+
+"Boarding Scanner" = "امسح تذكرة الطيارة" ;
+"Scanning....." = "جاري المسح...." ;
+
+"SCAN"="الماسح الضوئي";
+"NEXT"="التالي";
+"SCANNING BOAEDING PASSES"="أمسح تذكرة الطائرة";
+"SKIP"="تخطي";
+
