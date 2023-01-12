@@ -25,7 +25,11 @@ The application designed and builded by using xCode and import VisionKit library
 <h2> Video for our application </h2> 
 
 <or>
-<li> Download the video in Arbaic Language [ArabicLangauge.mov.zip](https://github.com/shathaaf8/PASCAN-App/files/10405451/ArabicLangauge.mov.zip)
+<li>  The video in Arbaic Language 
+
+https://user-images.githubusercontent.com/87260987/212181307-09733dce-527e-4749-82de-943694b05edc.mp4
+
+
   </li>
 <li> Download the video in English Language [EnglishLanguage.mov.zip](https://github.com/shathaaf8/PASCAN-App/files/10405429/EnglishLanguage.mov.zip)
   </li>
