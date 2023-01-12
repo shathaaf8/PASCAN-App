@@ -6,6 +6,9 @@
   
 The application designed and builded by using xCode and import VisionKit library that will help to scan the boarding pass and print it and then it is read by VoiceOver </h4>
 
-<h4> The journy of PASCAN: </h4> 
+<h2> The journy of PASCAN: </h2> 
+<or> 
+  <li> HI </li>
+  </or>
 
 
