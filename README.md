@@ -20,7 +20,7 @@ The application designed and builded by using xCode and import VisionKit library
 
 
 <h2> Challenge Summary </h4>
-
+https://github.com/shathaaf8/PASCAN-App/issues/2#issue-1531122459
 
 
 
