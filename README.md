@@ -10,6 +10,8 @@ The application designed and builded by using xCode and import VisionKit library
 <h4> We started by putting ourselives in people with dissabilities specaily blindess and low vision position and we figured that it is a challenge it self,  the most simple task is a struggl for them. For that reason, PASCAN app is an inclusive soultion that help a blind perosn to read their boarding pass. We followed specific criteria that reached our goal: </h4>
 <or> 
   <li> Lo-Fi Prototype </li>
+  ![Lo-Fi Prototype](https://user-images.githubusercontent.com/87260987/212174902-a79b9dcc-95a1-44ee-b313-a27e7730458d.png)
+
 <li> Hi-Fi Prototype </li>
   <br>
   <img width="709" alt="Screenshot 1444-06-19 at 11 25 55 PM" src="https://user-images.githubusercontent.com/87260987/212174243-969039d5-9745-4b6e-b68b-eee114771a42.png">
