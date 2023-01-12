@@ -1,4 +1,8 @@
 <h1> PASCAN Application </h1> 
-<h4> <small> <App scans boarding pass for people with blindess </small> </h4>
+<h4>  App scans boarding pass for people with blindess </h4>
+
+<hr>
+
+
 
 
