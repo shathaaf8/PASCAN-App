@@ -12,7 +12,8 @@ The application designed and builded by using xCode and import VisionKit library
   <li> Lo-Fi Prototype </li>
 <li> Hi-Fi Prototype </li>
   <br>
-  <img width="683" alt="Screenshot 1444-06-19 at 8 50 40 PM" src="https://user-images.githubusercontent.com/87260987/212142866-e63bc8f4-228d-4a03-be1c-abcfc9b81227.png">
+  <img width="709" alt="Screenshot 1444-06-19 at 11 25 55 PM" src="https://user-images.githubusercontent.com/87260987/212174243-969039d5-9745-4b6e-b68b-eee114771a42.png">
+
 <br>
   <li> Coding </li>
 </h4>
