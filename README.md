@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/87260987/212184029-45bc3a1e-b511-48e7-
 
 <or> 
   <li> Shatha Alshammari https://www.linkedin.com/in/shatha-alshammari-63a031172/  </li>
-<li>  Lamyaa Alharbi  </li>
+<li>  Lamyaa Alharbi https://www.linkedin.com/in/lamyaa-alharbi-a69196207/  </li>
 </or>
   
 
